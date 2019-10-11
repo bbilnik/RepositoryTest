@@ -1,0 +1,5 @@
+/Katalog1/*.txt
+/Katalog2/f1.txt
+/Katalog2/b1.bmp
+/Katalog3/*
+!/Katalog3/b1.bmp
